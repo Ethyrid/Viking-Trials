@@ -1,2 +1,2 @@
 # Viking-Trials
-Viking mini challenges Game developed in Unity
+Viking mini-challenge game developed in Unity
